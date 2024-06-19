@@ -1,0 +1,8 @@
+Linear Regression   Done
+Logistic Regression
+Decision Trees
+Random Forest
+K-Nearest Neighbor
+Support Vector Machine
+K-Means Clustering
+Naive Bayes
