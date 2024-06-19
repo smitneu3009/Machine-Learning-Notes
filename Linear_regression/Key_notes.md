@@ -58,7 +58,7 @@ Here is the data we have:
 
 Here's a conceptual representation of the graph:
 
-![Simple Linear Regression Graph](Linear_regression/images/Figure_1.png)
+![Simple Linear Regression Graph](../Linear_regression/images/Figure_1.png)
 
 In this graph:
 - The `*` symbols represent the actual data points.
