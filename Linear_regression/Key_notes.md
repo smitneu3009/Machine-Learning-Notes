@@ -54,7 +54,19 @@ Here is the data we have:
 - **Intercept (\(\beta_0\))**: This is the value of the exam score when the hours studied are zero. It gives us a baseline score.
 - **Slope (\(\beta_1\))**: This indicates how much the exam score increases for each additional hour of study. For example, if the slope is 5, then for each extra hour studied, the exam score increases by 5 points.
 
-## Summary
+### Understanding the Graph
+
+Here's a conceptual representation of the graph:
+
+![Simple Linear Regression Graph](Linear_regression/images/Figure_1.png)
+
+In this graph:
+- The `*` symbols represent the actual data points.
+- The x-axis represents the hours studied.
+- The y-axis represents the exam scores.
+- The line through the data points represents the regression line.
+
+### Summary
 
 - **Usefulness**: Simple linear regression helps in predicting outcomes and understanding relationships between two variables.
 - **Example**: The example of students and hours studied shows how studying more hours is associated with higher exam scores, and the model helps quantify this relationship.
