@@ -1,0 +1,7 @@
+What is a Cost Function?
+In machine learning, the cost function is a measure of how well your model's predictions match the actual data. It quantifies the difference between the predicted values and the actual values. The goal of training a machine learning model is to minimize this cost function, thereby improving the model's accuracy.
+
+Why is it Important?
+Model Evaluation: The cost function helps you evaluate how well your model is performing.
+Model Optimization: By minimizing the cost function, you optimize the model parameters to improve predictions.
+Guidance: It guides the learning process by providing feedback on the model's performance during training.
